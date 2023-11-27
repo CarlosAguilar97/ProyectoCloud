@@ -1,0 +1,4 @@
+{
+    "AzureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=carlostorage;AccountKey=5nk3f+x/TVWTFxT7nhLGlQmdcqFpBkanxkKldiXJMtDkekQ2pD+dD8mjFGwmh7gGkk6dFAdbxqn4+AStxgpMqg==;EndpointSuffix=core.windows.net",
+    "ContainerName": "carloscontenedor"
+}
